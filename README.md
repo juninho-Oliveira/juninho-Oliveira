@@ -1,8 +1,8 @@
 
 # Olá eu sou o Damião Junior
 
-Sou impressor e arte finalista, tenho 25 anos e estou cursando ciência da computação na FMU e front-end na Ford company, realizei um curso 
-de Algoritmos e logica de programação na Udemy e Programação web na Kenzie Academy Brasil.
+Sou impressor e arte finalista, tenho 25 anos e estou cursando ciência da computação na FMU e Front-end na Ford company no Senai-sp Ipiranga, realizei um curso 
+de Algoritmos e logica de programação na Udemy e Programação web Front-end na Kenzie Academy Brasil.
 
 ### Atualmente estou em busca da primeira experiência profissional no mercado da tecnologia.
 
