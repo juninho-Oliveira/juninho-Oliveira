@@ -6,7 +6,6 @@ de Algoritmos e logica de programação na Udemy e Programação web Front-end n
 
 ### Atualmente estou em busca da primeira experiência profissional no mercado da tecnologia.
 
-## OSs
 
 Aqui estão os sistemas operacionais que ja utilizei.
 
