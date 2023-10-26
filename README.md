@@ -50,7 +50,7 @@ Aqui estão algumas das tecnologias que estou estudando
    
  <div>
    <a href="https://www.linkedin.com/in/damiao-junior-6568531ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></br>
-   <a href="mailto:junior.oliveira05@icloud.com">junior.oliveira05@icloud.com</a>
+   <a href="mailto:junior.oliveira05@icloud.com">junior.oliveira05@icloud.com</a></br>
    <a href="https://juninho-oliveira.github.io/portfolio/">Portfólio</a>
     
 </div>
