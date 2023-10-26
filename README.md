@@ -1,8 +1,12 @@
 
 # Olá eu sou o Damião Junior
 
-Sou impressor e arte finalista, tenho 25 anos e estou cursando ciência da computação na FMU e Front-end na Ford company no Senai-sp Ipiranga, realizei um curso 
-de Algoritmos e logica de programação na Udemy e Programação web Front-end na Kenzie Academy Brasil.
+## Sobre
+Iniciei minha jornada profissional na empresa Record Álbum, onde tive a oportunidade de realizar um estágio de 6 meses. Após esse período, fui efetivado na área de impressão como auxiliar, passando por um treinamento fornecido pela Konica Minolta. Em seguida, meu registro foi alterado para impressor e passei a ser responsável pela área de impressão da empresa.
+
+Em 13/01/2021, ingressei na gráfica Alcalima como impressor digital, ampliando ainda mais meu conjunto de habilidades. Lá, aprendi a realizar o acabamento em lonas e a desempenhar atividades como arte finalista. Além disso, trabalho com uma plotter de impressão e recorte, e com duas impressoras Konica Minolta.
+
+Atualmente, estou cursando Ciência da Computação na FMU e também participo de aulas no Senai do Ipiranga aos sábados. Tive a oportunidade de conquistar uma bolsa de estudos em front-end oferecida pela Ford Motor Company. E também estou estudando na Ada Tech ganhei uma bolsa focada em desenvolvimento web front end do iFood com a Ada, Estou empolgado com essas oportunidade de aprimorar meus conhecimentos nessa área.🚀📚👨🏻‍💻
 
 ### Atualmente estou em busca da primeira experiência profissional no mercado da tecnologia.
 
