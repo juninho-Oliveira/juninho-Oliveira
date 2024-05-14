@@ -32,6 +32,14 @@
 </div>
 <br>
 
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juninho-Oliveira/juninho-Oliveira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juninho-Oliveira/juninho-Oliveira/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juninho-Oliveira/juninho-Oliveira/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Sobre
 
 Com uma sólida experiência na indústria gráfica, trabalhando em empresas como Record Álbum e Alcalima, estou agora buscando uma transição para a área de tecnologia como desenvolvedor front-end. Durante minha carreira na indústria gráfica, adquiri habilidades valiosas, incluindo a operação de impressoras Konica Minolta e designe gráfico. 
