@@ -29,6 +29,7 @@
    <a href="https://github.com/juninho-Oliveira"></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juninho-Oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juninho-Oliveira&layout=compact&langs_count=16&theme=dark"/>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=juninho-Oliveira&theme=dark&hide_border=false" alt="Github stats" />
 </div>
 <br>
 
@@ -49,6 +50,31 @@ Atualmente, estou cursando Ciência da Computação na FMU. Além disso, conquis
 Estou empolgado com essas oportunidades de aprimorar meus conhecimentos e fazer a transição para a área de tecnologia.🚀📚👨🏻‍💻
 
 ### Atualmente estou em busca da primeira experiência profissional no mercado da tecnologia.
+
+  <div align="center">
+  <h2>📝 Certificações 📝</h2>
+ <a href="https://www.credly.com/badges/27bc7fde-79eb-4e5d-962a-11522bf20312/public_url">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+ </a>
+<a href="https://www.credly.com/badges/72c6fb98-65d0-4db0-9f5c-53d9f11fe916/public_url">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"/>
+ </a>
+ <a href="https://www.credly.com/badges/65cec5f8-7458-4ef5-abbd-d2d5499b6384/public_url">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+ </a>
+ <a href="https://www.credly.com/badges/ffc8988f-3d25-44de-a383-98c97e1a5cfc/public_url">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
+ </a>
+</div>
+
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/juninho-Oliveira/count.svg" />  
+</p>
 
 
 
