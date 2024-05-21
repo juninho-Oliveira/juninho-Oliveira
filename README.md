@@ -29,7 +29,7 @@
    <a href="https://github.com/juninho-Oliveira"></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juninho-Oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juninho-Oliveira&layout=compact&langs_count=16&theme=dark"/>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=juninho-Oliveira&theme=dark&hide_border=false" alt="Github stats" />
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=juninho-Oliveira&theme=dark&hide_border=false"  />
 </div>
 <br>
 
