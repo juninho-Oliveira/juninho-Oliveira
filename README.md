@@ -59,6 +59,7 @@ Estou empolgado com essas oportunidades de aprimorar meus conhecimentos e fazer 
   <img width="100" height="60"  src="/certificados/discover-2.png"/>
   <img width="100" height="60"  src="/certificados/inbs.png"/>
   <img width="100" height="60"  src="/certificados/udemy.png"/>
+  <img width="100" height="60"  src="/certificados/excel-senai.png"/>
 </div>
 
 <div align=center>
