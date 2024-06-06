@@ -43,7 +43,7 @@
 
 Com uma sólida experiência na indústria gráfica, onde trabalhei em empresas como Record Álbum e Alcalima, busco agora uma transição para a área de tecnologia como desenvolvedor front-end. Ao longo da minha carreira na indústria gráfica, adquiri habilidades valiosas, incluindo operação de impressoras Konica Minolta e design gráfico.
 
-Recentemente, concluí com sucesso duas bolsas de estudo em front-end: uma oferecida pela Ford Motor Company e outra pela Ada Tech em parceria com o iFood. Essas oportunidades me proporcionaram uma base sólida em desenvolvimento web front-end, complementando minha busca contínua por conhecimento na área.
+Concluí com sucesso duas bolsas de estudo em front-end: uma oferecida pela Ford Motor Company e outra pela Ada Tech em parceria com o iFood. Essas oportunidades me proporcionaram uma base sólida em desenvolvimento web front-end, complementando minha busca contínua por conhecimento na área.
 
 Atualmente, estou cursando Ciência da Computação na FMU, buscando fortalecer ainda mais minhas habilidades e conhecimentos técnicos. Estou entusiasmado para aplicar minhas habilidades e conhecimentos recém-adquiridos em um ambiente de tecnologia, contribuindo para projetos desafiadores e colaborando com equipes criativas. Estou aberto a novas oportunidades e ansioso para continuar aprendendo e crescendo nesta área emocionante.🚀📚👨🏻‍💻
 
