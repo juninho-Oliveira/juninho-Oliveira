@@ -60,7 +60,8 @@ Atualmente, estou cursando Ciência da Computação na FMU, buscando fortalecer 
   <img width="100" height="60"  src="/certificados/inbs.png"/>
   <img width="100" height="60"  src="/certificados/udemy.png"/>
   <img width="100" height="60"  src="/certificados/excel-senai.png"/>
-    <img width="100" height="60"  src="/certificados/discover-3.png"/>
+  <img width="100" height="60"  src="/certificados/discover-3.png"/>
+  <img width="100" height="60"  src="/certificados/ada-santander.png"/>
 </div>
 
 <div align=center>
